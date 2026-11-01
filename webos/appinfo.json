@@ -7,7 +7,7 @@
   "title": "Free My TV",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
-  "iconColor": "#FF7A9E",
+  "iconColor": "#C9A227",
   "resolution": "1920x1080",
   "handlesRelaunch": true,
   "disableBackHistoryAPI": true,
